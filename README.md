@@ -1,15 +1,6 @@
 # myreadmekrauss
 readme65
 below:
-print ("Hello world")#basic for loop for x in range (10, 20):
-mylist.append("apples")(mylist)
-my list +[] mylist.append ("pineapples")
-
-print ("that's a small number !") x = input ("1738") print ("that're more then nothing") else : if x > 0: x = int (x)
-
-
-
-
 def mainprogram ():
     print("HELLO, there! let's work with lists!")
     print("please choose from the following options. 5,10,15,20,25
@@ -33,6 +24,23 @@ def indexvalues():
 
 
 
+
+if__name=="__main__":
+    mainprogram()
+
+def addtolist ():
+    print("Adding to a list! great choice!")
+    newitem = input ("type an integer here!  ")
+    mylist.append(int(newitem))
+
+
+def addabunch():
+    print("we're gonna add a bunch of nubers to your list !")
+    numtoadd = input ("how many new integers would you like to add? ")
+    numrange = input("and how high would you like these numbers to go?  ")
+    for x in range (0 , int(numtoadd)):
+        mylist.append(random.randit(0, int(numrange))
+        
 
 if__name=="__main__":
     mainprogram()
