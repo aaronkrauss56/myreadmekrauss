@@ -40,7 +40,30 @@ def addabunch():
     numrange = input("and how high would you like these numbers to go?  ")
     for x in range (0 , int(numtoadd)):
         mylist.append(random.randit(0, int(numrange))
-        
 
-if__name=="__main__":
-    mainprogram()
+while True:
+    print ("Hello,there! let's work with lists!")
+    print("please choose from the following options. type the number of the choice")
+    choice = input("""1. add to a list,
+
+
+
+
+
+if choice == "1":
+    addtolist()
+elif choice == "2":
+    indexvalues()
+elif choice == "3":
+    addabunch()
+elif choice == "4":
+    randomsearch():
+elif choice == "5":
+    linearsearch():
+elif chocie "6"
+    print(mylist)
+else:
+    break
+
+    
+        
